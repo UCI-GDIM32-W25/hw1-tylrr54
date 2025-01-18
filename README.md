@@ -32,3 +32,6 @@ Upon reflection, my initial plan aligned very closely with how the coding proces
 ## Open-Source Assets
 If you added any other outside assets, list them here!
 - [Sprout Lands sprite asset pack](https://cupnooble.itch.io/sprout-lands-asset-pack) - character and item sprites
+
+## Prof comments
+You did a great job clearly connecting the break-down that you wrote to your process coding in Unity, so this Devlog will get full points. I'm interested to see how your plan for HW2 turns out and whether or not you find the planning activity to be useful.
